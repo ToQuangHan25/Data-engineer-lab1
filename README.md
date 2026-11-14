@@ -11,11 +11,11 @@ Repository tổng hợp kiến thức nền tảng, quy trình cài đặt và k
 
 ```text
 Data-engineer-foundation/
-├── report # Báo cáo pdf tìm hiểu kiến thức và demo code
+├── report/ # Báo cáo pdf tìm hiểu kiến thức và demo code
 ├── code # Các code sử dụng
-│   ├── docker-demo
-│   ├── git-github-demo
-│   └── sql-demo
+│   ├── docker-demo/
+│   ├── git-github-demo/
+│   └── sql-demo/
 ├── images/ # Ảnh chụp màn hình demo code
 └── README.md
 ```
