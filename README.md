@@ -1,6 +1,6 @@
 # Data Engineering Foundation — Lab 1
 
-Repository tổng hợp kiến thức nền tảng, quy trình cài đặt và kết quả thực hành (mã nguồn, ảnh minh chứng) cho các kiến thức của **Data Engineering**:
+Repository tổng hợp kiến thức nền tảng, quy trình cài đặt và kết quả thực hành (mã nguồn, ảnh minh họa):
 1. Quản lý môi trường & Ảo hóa (**Miniconda**, **Virtual Machine**, **Docker Container**)
 2. Quản lý phiên bản mã nguồn (**Git** & **GitHub**)
 3. Hệ quản trị cơ sở dữ liệu quan hệ (**RDBMS — MariaDB** & **SQL**)
