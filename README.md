@@ -1,4 +1,4 @@
-# Data Engineering Foundation — Lab 1
+# Tô Quang Hân - 23001605
 
 Repository tổng hợp kiến thức nền tảng, quy trình cài đặt và kết quả thực hành (mã nguồn, ảnh minh họa):
 1. Quản lý môi trường & Ảo hóa (**Miniconda**, **Virtual Machine**, **Docker Container**)
